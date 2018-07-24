@@ -36,6 +36,8 @@ define(function (require) {
   require('audioVoice');
   require('monosynth');
   require('polysynth');
+  require('peakdetect');
+  require('onsetdetectFlux');
 
   return p5SOUND;
 

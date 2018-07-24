@@ -96,7 +96,8 @@ module.exports = function(grunt) {
             'gain': 'src/gain',
             'audioVoice': 'src/audioVoice',
             'monosynth': 'src/monosynth',
-            'polysynth': 'src/polysynth'
+            'polysynth': 'src/polysynth',
+            'onsetdetectFlux': 'src/onsetDetectFlux'
           },
           useStrict: true,
           wrap: {
